@@ -92,6 +92,9 @@ public class Examen_Parcial {
             System.out.println("Redes Sociles Ilimitadas");
         }
     
+    }
+}
+    
         //System.out.println("Su crompra es: ");
     
     
